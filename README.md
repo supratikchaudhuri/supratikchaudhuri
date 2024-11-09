@@ -72,8 +72,6 @@
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-000000?style=flat)
 ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-000000?style=flat)
 ![REST API](https://img.shields.io/badge/-REST%20API-000000?style=flat)
-![UiPath](https://img.shields.io/badge/-UiPath-FF6C37?style=flat&logo=uipath&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-CB3032?style=flat&logo=sonarqube&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
 </td>
